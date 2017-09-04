@@ -9,3 +9,5 @@ MVP:
 Future:
 - non-exact handwritten text recognition
 - tolerant search engine
+- autotegging
+- ISBN reading for books
